@@ -22,11 +22,11 @@ knitr::opts_chunk$set(
 
 ```{css}
 a, a > code {
-  color: #EC99C6;
+  color: #EC99C5;
   text-decoration: none;
 }
 
-
+ 
 navbar-inverse {
     background-color: #E69F00;
     border-color: #E69F00;
